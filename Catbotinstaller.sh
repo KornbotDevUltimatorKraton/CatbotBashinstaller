@@ -20,5 +20,7 @@ sudo pip3 install scipy
 sudo pip3 install matplotlib 
 echo 'Location initilization function'
 sudo pip3 install geopy 
+echo 'Install examples face recognition'
+git clone https://github.com/ageitgey/face_recognition
 echo 'Done installation bye !'
 

@@ -1,3 +1,5 @@
+#Author :Mr. Chanapai Chuadchum 
+#Project: Catbot installer lib
 echo 'Catbot software installer..... '
   # Update the function of the computer 
 sudo apt-get update && sudo apt-get upgrade -y 
